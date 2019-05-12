@@ -1,0 +1,26 @@
+<annotation>
+  <folder>gtsdb_copy</folder>
+  <filename>00545</filename>
+  <path>D:/Gatech/ml/GRA/gtsdb_copy/00545.ppm</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>43</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>364</xmin>
+      <ymin>441</ymin>
+      <xmax>382</xmax>
+      <ymax>462</ymax>
+    </bndbox>
+  </object>
+</annotation>
